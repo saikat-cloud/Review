@@ -11,7 +11,7 @@ rollsroyce = {
     "Founders" : ["Henry","Royce","Charles","Rolls"]
 }
 
-student = dict(name = "saikat", age = 29, country = "bangladesh")
+# student = dict(name = "saikat", age = 29, country = "bangladesh")
 
 # print(rollsroyce)
 # print(len(rollsroyce))
@@ -106,3 +106,24 @@ student = dict(name = "saikat", age = 29, country = "bangladesh")
 #   setdefault()	   Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
 #   update()	       Updates the dictionary with the specified key-value pairs
 #   values()	       Returns a list of all the values in the dictionary
+
+
+
+
+
+
+
+
+# student = {
+#     "name" : "saikat",
+#     "age" : 28,
+#     "country" : "bangladesh"
+# }
+
+# print(student["country"])
+
+# student.update({"towen":"Dhaka"})
+# print(student)
+
+# student.pop([1])
+# print(student)
